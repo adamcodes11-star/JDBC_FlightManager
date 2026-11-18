@@ -27,11 +27,11 @@ A complete database backup (DDL + data) is provided in `FlightDB_Dump.sql`.
 
 | Role | Full Name | Student ID | Braude Academic Email |
 | :--- | :--- | :--- | :--- |
-| **Student A** | `[Enter Student A Full Name]` | `[Enter ID]` | `[studentA@e.braude.ac.il]` |
-| **Student B** | `[Enter Student B Full Name]` | `[Enter ID]` | `[studentB@e.braude.ac.il]` |
+| **Student A** | `Adam Ziad ` | `325488559` | `Adam.zayyad@e.braude.ac.il` |
+| **Student B** | `Jiryes Daood]` | `213559677` | `Jiryes.daood@e.braude.ac.il` |
 
 * **Group Number:** `G[XX]`
-* **GitHub Repository URL:** `https://github.com/[Username]/JDBC_FlightManager`
+* **GitHub Repository URL:**: https://github.com/adamcodes11-star/JDBC_FlightManager
 
 **Work distribution:** Parts 1–2 and 3.1 – joint work; Part 3.2 (`SimpleFlightUpdater`) – Student A as Driver,
 Student B as Navigator; Part 3.3 (`AdvancedFlightDispatcher`) – Student B as Driver, Student A as Navigator;
